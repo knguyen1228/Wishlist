@@ -1,6 +1,6 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Your Name Here**
+Submitted by: **Khang Nguyen**
 
 **Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
 
@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/knguyen1228/Wishlist/blob/master/wishlist_gif.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
